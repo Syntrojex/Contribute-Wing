@@ -1,0 +1,50 @@
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Editor / IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Node.js / JavaScript / TypeScript ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# === C / C++ ===
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+
+# === C# / .NET ===
+bin/
+obj/
+*.user
+
+# === Java ===
+*.class
+*.jar
+
+# === Dart / Flutter ===
+.dart_tool/
+.packages
+pubspec.lock
+
+# === Logs ===
+*.log
