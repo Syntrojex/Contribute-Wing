@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        string name = "World";
+        string name = "Syntrojex(Mustafa)";
         Console.WriteLine($"Hello, {name}! Welcome to the Contributing repo 🎉");
     }
 }
