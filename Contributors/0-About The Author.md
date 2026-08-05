@@ -23,6 +23,20 @@ This repository is a beginner-friendly practice space where developers can safel
 - 🚀 Opening Pull Requests
 - 🤝 Collaborating like a real open-source contributor
 
-Whether this is your first contribution or you're simply refreshing your Git skills, you're welcome here!
+Whether this is your first contribution or you're simply refreshing your Git skills, you're welcome here! 🚀
 
 ---
+
+## 🌐 Connect With Me
+
+- **GitHub:** https://github.com/Syntrojex
+- **LinkedIn:** https://www.linkedin.com/in/mustafa-amir-syntrojex
+- **Email:** mailto:mustafaamir398a@gmail.com
+- **WhatsApp:** https://wa.me/923324097601
+
+---
+
+> **Note**
+>
+> This is the official maintainer profile.
+> All contributors should create **their own Markdown file** using the contributor template instead of editing this one.
