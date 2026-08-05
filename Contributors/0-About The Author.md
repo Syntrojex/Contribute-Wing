@@ -29,10 +29,13 @@ Whether this is your first contribution or you're simply refreshing your Git ski
 
 ## 🌐 Connect With Me
 
-- **GitHub:** https://github.com/Syntrojex
-- **LinkedIn:** https://www.linkedin.com/in/mustafa-amir-syntrojex
-- **Email:** mailto:mustafaamir398a@gmail.com
-- **WhatsApp:** https://wa.me/923324097601
+[![GitHub](https://img.shields.io/badge/GitHub-Syntrojex-181717?style=for-the-badge&logo=github)](https://github.com/Syntrojex)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mustafa--amir--syntrojex-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-amir-syntrojex)
+
+[![Email](https://img.shields.io/badge/Email-mustafaamir398a%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafaamir398a@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20332%20409%207601-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923324097601)
 
 ---
 
