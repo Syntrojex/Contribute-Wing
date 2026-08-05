@@ -10,3 +10,19 @@
 Hey, I'm **Muhammad Mustafa Amir**, better known online as **Syntrojex**. I created this repository so developers can confidently learn and practice Git & GitHub before contributing to real open-source projects.
 
 ---
+
+## 📖 About This Repository
+
+This repository is a beginner-friendly practice space where developers can safely experience the complete Git & GitHub contribution workflow.
+
+### Practice the following:
+
+- 🍴 Forking a repository
+- 🌿 Creating feature branches
+- 💾 Making meaningful commits
+- 🚀 Opening Pull Requests
+- 🤝 Collaborating like a real open-source contributor
+
+Whether this is your first contribution or you're simply refreshing your Git skills, you're welcome here!
+
+---
