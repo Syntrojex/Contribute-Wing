@@ -73,3 +73,21 @@ The goal is to help beginners become comfortable with the **real contribution wo
 > 🌱 Start small. Practice the workflow. Then contribute to bigger projects with confidence.
 
 ---
+
+## 📂 Repository Structure
+
+```text
+Contribute-Wing/
+├── README.md
+├── CONTRIBUTORS.md
+├── LICENSE
+├── .gitignore
+└── contributors/
+    ├── 0-About the Author.md
+    ├── 0-syntrojex.cs
+    ├── 1-contributor-name.md
+    ├── 1-contributor-name.py
+    └── ...
+```
+
+---
