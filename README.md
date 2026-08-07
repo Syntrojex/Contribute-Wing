@@ -47,7 +47,7 @@ Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  → 
 4. **Add your files** inside `contributors/` — a profile `.md` + a code snippet in your language of choice
 5. **Update the Contributors table** with your entry
 6. **Commit, push,** and open a **Pull Request**
-7. Get merged and see your name live in the repository 🎉
-👉 Full step-by-step instructions with exact formats: **[CONTRIBUTING.md](./CONTRIBUTING.md)**
+7. Get merged and see your name live in the repository 🎉\
+>👉 Full step-by-step instructions with exact formats: **[CONTRIBUTING.md](./CONTRIBUTING.md)**
  
 ---
