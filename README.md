@@ -20,29 +20,6 @@ No complicated setup. No fear of breaking something important. Just the real wor
  
 ---
 
-## 🎯 Why Was This Repository Created?
-
-Many beginners learn Git commands individually but don't get enough practice with the **complete Pull Request workflow** before working on larger open-source projects.
-
-**Contribute Wing was created specifically to solve that problem.**
-
-It gives beginners a safe and simple environment where they can practice:
-
-- Creating a fork
-- Cloning a repository
-- Creating and switching branches
-- Adding and modifying files
-- Making commits
-- Pushing changes to GitHub
-- Opening a Pull Request
-- Understanding how contributions are reviewed and merged
-
-The goal is to help beginners become comfortable with the **real contribution workflow before contributing to larger or more complex open-source projects.**
-
-> 🌱 Start small. Practice the workflow. Then contribute to bigger projects with confidence.
-
----
-
 ## 🧭 How It Works
  
 ```
@@ -56,6 +33,9 @@ Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  → 
 5. **Update the Contributors table** with your entry
 6. **Commit, push,** and open a **Pull Request**
 7. Get merged and see your name live in the repository 🎉
+8. The goal is to help beginners become comfortable with the **real contribution workflow before contributing to larger or more complex open-source projects.**
+
+> 🌱 Start small. Practice the workflow. Then contribute to bigger projects with confidence.
  
 ---
 
