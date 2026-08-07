@@ -20,37 +20,6 @@ No complicated setup. No fear of breaking something important. Just the real wor
  
 ---
 
-## 🎯 Why This Repository Exists
- 
-Most beginners understand Git commands in theory — `git clone`, `git commit`, `git push` — but freeze up the moment they need to open a **real** pull request on someone else's project. Fear of messing up, unclear conventions, and not knowing what to expect all get in the way.
- 
-This repository removes that fear entirely:
- 
-| Without Contribute Wing | With Contribute Wing |
-| :--- | :--- |
-| ❌ Afraid of breaking a real project | ✅ Zero risk — your file is isolated |
-| ❌ Unsure what a PR should look like | ✅ Clear, guaranteed-mergeable format |
-| ❌ No idea what maintainers expect | ✅ Step-by-step guide, no guessing |
-| ❌ Empty GitHub contribution graph | ✅ A real green square, today |
- 
----
-
-## 🧭 How It Works
- 
-```
-Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  →  Pull Request  →  Merged 🎉
-```
- 
-1. **Fork** this repository to your own GitHub account
-2. **Clone** your fork to your machine
-3. **Create a branch** named after yourself
-4. **Add your files** inside `contributors/` — a profile `.md` + a code snippet in your language of choice
-5. **Update the Contributors table** with your entry
-6. **Commit, push,** and open a **Pull Request**
-7. Get merged and see your name live in the repository 🎉
- 
----
-
 ## 🎯 Why Was This Repository Created?
 
 Many beginners learn Git commands individually but don't get enough practice with the **complete Pull Request workflow** before working on larger open-source projects.
@@ -72,6 +41,22 @@ The goal is to help beginners become comfortable with the **real contribution wo
 
 > 🌱 Start small. Practice the workflow. Then contribute to bigger projects with confidence.
 
+---
+
+## 🧭 How It Works
+ 
+```
+Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  →  Pull Request  →  Merged 🎉
+```
+ 
+1. **Fork** this repository to your own GitHub account
+2. **Clone** your fork to your machine
+3. **Create a branch** named after yourself
+4. **Add your files** inside `contributors/` — a profile `.md` + a code snippet in your language of choice
+5. **Update the Contributors table** with your entry
+6. **Commit, push,** and open a **Pull Request**
+7. Get merged and see your name live in the repository 🎉
+ 
 ---
 
 ## 📂 Repository Structure
