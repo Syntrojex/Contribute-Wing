@@ -119,14 +119,10 @@ Use lowercase + hyphens, for example: `your-name.md`, `your-name.cpp`
 
 **💻 Code File Example — copy into `your-name.ext`:**
 
-Just raw code — no Markdown wrapping needed. Jump to your language:
-
-**[C++](#cpp-example) &nbsp;|&nbsp; [Python](#python-example) &nbsp;|&nbsp; [JavaScript](#javascript-example) &nbsp;|&nbsp; [Java](#java-example) &nbsp;|&nbsp; [C#](#c-example) &nbsp;|&nbsp; [Dart](#dart-example) &nbsp;|&nbsp; [Go](#go-example)**
-
-<h4 id="cpp-example">C++</h4>
+Just raw code — no Markdown wrapping needed. Pick your language below to see a sample:
 
 <details>
-<summary><b>Click to view</b> — <code>your-name.cpp</code></summary>
+<summary><b>C++</b> — <code>your-name.cpp</code></summary>
 
 ```cpp
 #include <iostream>
@@ -140,10 +136,8 @@ int main() {
 
 </details>
 
-<h4 id="python-example">Python</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.py</code></summary>
+<summary><b>Python</b> — <code>your-name.py</code></summary>
 
 ```python
 def main():
@@ -154,10 +148,8 @@ main()
 
 </details>
 
-<h4 id="javascript-example">JavaScript</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.js</code></summary>
+<summary><b>JavaScript</b> — <code>your-name.js</code></summary>
 
 ```javascript
 function main() {
@@ -169,10 +161,8 @@ main();
 
 </details>
 
-<h4 id="java-example">Java</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.java</code></summary>
+<summary><b>Java</b> — <code>your-name.java</code></summary>
 
 ```java
 public class Main {
@@ -184,10 +174,8 @@ public class Main {
 
 </details>
 
-<h4 id="c-example">C#</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.cs</code></summary>
+<summary><b>C#</b> — <code>your-name.cs</code></summary>
 
 ```csharp
 using System;
@@ -201,10 +189,8 @@ class Program {
 
 </details>
 
-<h4 id="dart-example">Dart</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.dart</code></summary>
+<summary><b>Dart</b> — <code>your-name.dart</code></summary>
 
 ```dart
 void main() {
@@ -214,10 +200,8 @@ void main() {
 
 </details>
 
-<h4 id="go-example">Go</h4>
-
 <details>
-<summary><b>Click to view</b> — <code>your-name.go</code></summary>
+<summary><b>Go</b> — <code>your-name.go</code></summary>
 
 ```go
 package main
@@ -260,5 +244,9 @@ Licensed under the [MIT License](./LICENSE) — free to fork, star, and use as a
 ---
 
 <p align="center">
-<sub>Created by Muhammad Mustafa (<a href="https://github.com/Syntrojex">Syntrojex</a>)</sub>
+⭐ <b>If this repository helped you, consider giving it a star!</b> ⭐
+</p>
+
+<p align="center">
+<b>Created by Muhammad Mustafa (<a href="https://github.com/Syntrojex">Syntrojex</a>)</b>
 </p>
