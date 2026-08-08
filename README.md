@@ -119,7 +119,10 @@ Use lowercase + hyphens, for example: `your-name.md`, `your-name.cpp`
 
 **💻 Code File Example — copy into `your-name.ext`:**
 
-Just raw code — no Markdown wrapping needed:
+Just raw code — no Markdown wrapping needed. Pick your language below to see a sample:
+
+<details>
+<summary><b>C++</b> — <code>your-name.cpp</code></summary>
 
 ```cpp
 #include <iostream>
@@ -131,29 +134,106 @@ int main() {
 }
 ```
 
-### 5. Add Your Name to CONTRIBUTORS.md
+</details>
 
-Open `CONTRIBUTORS.md` and add a row with your name.
+<details>
+<summary><b>Python</b> — <code>your-name.py</code></summary>
 
-### 6. Commit & Push
+```python
+def main():
+    print("Hello, World! Thanks for checking out my first PR 🎉")
+
+main()
+```
+
+</details>
+
+<details>
+<summary><b>JavaScript</b> — <code>your-name.js</code></summary>
+
+```javascript
+function main() {
+    console.log("Hello, World! Thanks for checking out my first PR 🎉");
+}
+
+main();
+```
+
+</details>
+
+<details>
+<summary><b>Java</b> — <code>your-name.java</code></summary>
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! Thanks for checking out my first PR 🎉");
+    }
+}
+```
+
+</details>
+
+<details>
+<summary><b>C#</b> — <code>your-name.cs</code></summary>
+
+```csharp
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World! Thanks for checking out my first PR 🎉");
+    }
+}
+```
+
+</details>
+
+<details>
+<summary><b>Dart</b> — <code>your-name.dart</code></summary>
+
+```dart
+void main() {
+  print("Hello, World! Thanks for checking out my first PR 🎉");
+}
+```
+
+</details>
+
+<details>
+<summary><b>Go</b> — <code>your-name.go</code></summary>
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World! Thanks for checking out my first PR 🎉")
+}
+```
+
+</details>
+
+### 5. Commit & Push
 
 ```bash
-git add contributors/your-name.md contributors/your-name.ext CONTRIBUTORS.md
+git add contributors/your-name.md contributors/your-name.ext
 git commit -m "Add [Your Name] as a contributor"
 git push origin YOUR-NAME
 ```
 
-### 7. Open a Pull Request
+### 6. Open a Pull Request
 
 Go to your fork → **Compare & pull request** → add a short description → submit.
 
-Once merged, you're officially a contributor ✅
+Once merged, you're officially a contributor ✅ — the maintainer will add your name to `CONTRIBUTORS.md` for you.
 
 ---
 
 ## 🌟 Contributors
 
-See everyone who's contributed in **[CONTRIBUTORS.md](./CONTRIBUTORS.md)** — your name will also be added there.
+See everyone who's contributed in **[CONTRIBUTORS.md](./CONTRIBUTORS.md)** — once your PR is merged, the maintainer will add your name there. No need to edit that file yourself.
 
 ---
 
