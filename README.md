@@ -89,7 +89,7 @@ Inside `contributors/`, create:
 .php → PHP      .rs → Rust       .c → C
 ```
  
-Use lowercase + hyphens: `mustafa-craft.md`, `mustafa-craft.cpp`
+Use lowercase + hyphens, For Example: `your-name.md`, `your-name.cpp`
  
 <details>
 <summary><b>📄 Profile Template (click to expand)</b></summary>
