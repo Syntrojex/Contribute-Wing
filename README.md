@@ -215,6 +215,83 @@ func main() {
 
 </details>
 
+<details>
+<summary><b>TypeScript</b> — <code>your-name.ts</code></summary>
+
+```typescript
+function main(): void {
+    console.log("Hello, World! Thanks for checking out my first PR 🎉");
+}
+
+main();
+```
+
+</details>
+
+<details>
+<summary><b>Kotlin</b> — <code>your-name.kt</code></summary>
+
+```kotlin
+fun main() {
+    println("Hello, World! Thanks for checking out my first PR 🎉")
+}
+```
+
+</details>
+
+<details>
+<summary><b>Swift</b> — <code>your-name.swift</code></summary>
+
+```swift
+print("Hello, World! Thanks for checking out my first PR 🎉")
+```
+
+</details>
+
+<details>
+<summary><b>PHP</b> — <code>your-name.php</code></summary>
+
+```php
+<?php
+echo "Hello, World! Thanks for checking out my first PR 🎉";
+```
+
+</details>
+
+<details>
+<summary><b>Rust</b> — <code>your-name.rs</code></summary>
+
+```rust
+fn main() {
+    println!("Hello, World! Thanks for checking out my first PR 🎉");
+}
+```
+
+</details>
+
+<details>
+<summary><b>Ruby</b> — <code>your-name.rb</code></summary>
+
+```ruby
+puts "Hello, World! Thanks for checking out my first PR 🎉"
+```
+
+</details>
+
+<details>
+<summary><b>C</b> — <code>your-name.c</code></summary>
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World! Thanks for checking out my first PR 🎉\n");
+    return 0;
+}
+```
+
+</details>
+
 ### 5. Commit & Push
 
 ```bash
