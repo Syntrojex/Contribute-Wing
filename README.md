@@ -148,3 +148,11 @@ git push origin add-YOUR-NAME
 Go to your fork → **Compare & pull request** → add a short description → submit.
  
 Once merged, you're officially a contributor ✅
+
+---
+
+## 🌟 Contributors
+ 
+See everyone who's contributed in **[CONTRIBUTORS.md](./CONTRIBUTORS.md)** — Your name will also be added there.
+ 
+---
