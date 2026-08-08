@@ -156,3 +156,13 @@ Once merged, you're officially a contributor ✅
 See everyone who's contributed in **[CONTRIBUTORS.md](./CONTRIBUTORS.md)** — Your name will also be added there.
  
 ---
+
+## 📜 License
+ 
+Licensed under the [MIT License](./LICENSE) — free to fork, star, and use as a template.
+ 
+---
+ 
+<p align="center">
+<sub>Created by Muhammad Mustafa (<a href="https://github.com/Syntrojex">Syntrojex</a>)</sub>
+</p>
