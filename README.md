@@ -73,7 +73,7 @@ cd Contribute-Wing
 ### 3. Create a Branch
  
 ```bash
-git checkout -b add-YOUR-NAME
+git checkout -b YOUR-NAME
 ```
  
 ### 4. Add Your Two Files
