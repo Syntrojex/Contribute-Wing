@@ -66,7 +66,7 @@ Click **Fork** at the top-right of this repository's GitHub page.
 ### 2. Clone Your Fork
  
 ```bash
-git clone https://github.com/YOUR-USERNAME/Contribute-Wing.git
+git clone https://github.com/Syntrojex/Contribute-Wing.git
 cd Contribute-Wing
 ```
  
