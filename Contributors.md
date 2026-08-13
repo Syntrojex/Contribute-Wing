@@ -1,4 +1,4 @@
-# 🌟 Contributors
+<h1 align="center">🌟 Contributors</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/contributors/Syntrojex/Contribute-Wing?style=for-the-badge&color=brightgreen" alt="total contributors" />
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Everyone listed here has completed a real Fork → Branch → Commit → Pull Request cycle in <b>Contribute Wing</b>. Thank you for practicing with us! 🎉
+A heartfelt thank-you to everyone below — each one has completed a real <b>Fork → Branch → Commit → Pull Request</b> cycle in <b>Contribute Wing</b> and helped this project grow. 🎉
 </p>
 
 ---
