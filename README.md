@@ -304,13 +304,13 @@ git push origin YOUR-NAME
 
 Go to your fork → **Compare & pull request** → add a short description → submit.
 
-Once merged, you're officially a contributor ✅ — the maintainer will add your name to `CONTRIBUTORS.md` for you.
+Once merged, you're officially a contributor ✅ — the maintainer will add your name to `Contributors.md` for you.
 
 ---
 
 ## 🌟 Contributors
 
-See everyone who's contributed in **[CONTRIBUTORS.md](./Contributors.md)** — once your PR is merged, the maintainer will add your name there. No need to edit that file yourself.
+See everyone who's contributed in **[Contributors.md](./Contributors.md)** — once your PR is merged, the maintainer will add your name there. No need to edit that file yourself.
 
 ---
 
