@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
-A heartfelt thank-you to everyone below — each one has completed a real <b>Fork → Branch → Commit → Pull Request</b> cycle in <b>Contribute Wing</b> and helped this project grow. 🎉
+<b>💙 A heartfelt thank-you to everyone below.</b><br>
+Each person has completed a real <b>Fork → Branch → Commit → Pull Request</b> cycle in <b>Contribute Wing</b> — and helped this project grow. 🎉
 </p>
 
 ---
+
 
 
 
