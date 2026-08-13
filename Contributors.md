@@ -23,5 +23,5 @@ Follow the guide in **[README.md](./README.md#-how-to-contribute)** and open you
 ---
 
 <p align="center">
-<sub>Maintained by <a href="https://github.com/Syntrojex">Syntrojex</a></sub>
+<b>Maintained by Muhammad Mustafa (<a href="https://github.com/Syntrojex">Syntrojex</a>)</b>
 </p>
