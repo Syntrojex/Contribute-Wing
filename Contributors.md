@@ -10,3 +10,16 @@ Everyone listed here has completed a real Fork → Branch → Commit → Pull Re
 </p>
 
 ---
+
+
+
+
+## ➕ Want to Be Added Here?
+
+Follow the guide in **[README.md](./README.md#-how-to-contribute)** and open your Pull Request. You don't need to edit this file yourself — once your PR is merged, the maintainer will add your name here.
+
+---
+
+<p align="center">
+<sub>Maintained by <a href="https://github.com/Syntrojex">Syntrojex</a></sub>
+</p>
