@@ -10,7 +10,7 @@ Created by **Muhammad Mustafa** ([@Syntrojex](https://github.com/Syntrojex))
 
 ## 📌 What Is This Repository?
 
-**Contribute Wing** isn't a "real" software project with a codebase to maintain — it's a **training ground**. A safe, structured space where developers add two small files to the `contributors/` folder:
+**Contribute Wing** isn't a "real" software project with a codebase to maintain — it's a **training ground**. A safe, structured space where developers add two small files to the `contributions/` folder:
 
 - 📝 A short **profile** introducing themselves
 - 💻 A **code snippet** in any programming language they like — C++, Python, Dart, JavaScript, Java, whatever they know
@@ -45,10 +45,10 @@ Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  → 
 ```text
 Contribute-Wing/
 ├── README.md
-├── CONTRIBUTORS.md
+├── Contributors.md
 ├── LICENSE
 ├── .gitignore
-└── contributors/
+└── contributions/
     ├── 0-About the Author.md
     ├── 0-Syntrojex.cs
     ├── 1-contributor-name.md
@@ -79,10 +79,10 @@ git checkout -b YOUR-NAME
 
 ### 4. Add Your Two Files
 
-Inside `contributors/`, create:
+Inside `contributions/`, create:
 
-1. **Profile file:** `contributors/your-name.md`
-2. **Code file:** `contributors/your-name.ext` — use your language's real extension (not `.md`)
+1. **Profile file:** `contributions/your-name.md`
+2. **Code file:** `contributions/your-name.ext` — use your language's real extension (not `.md`)
 
 ```
 .cpp → C++      .py → Python     .js → JavaScript   .ts → TypeScript
@@ -295,7 +295,7 @@ int main() {
 ### 5. Commit & Push
 
 ```bash
-git add contributors/your-name.md contributors/your-name.ext
+git add contributions/your-name.md contributions/your-name.ext
 git commit -m "Add [Your Name] as a contributor"
 git push origin YOUR-NAME
 ```
@@ -310,7 +310,7 @@ Once merged, you're officially a contributor ✅ — the maintainer will add you
 
 ## 🌟 Contributors
 
-See everyone who's contributed in **[CONTRIBUTORS.md](./CONTRIBUTORS.md)** — once your PR is merged, the maintainer will add your name there. No need to edit that file yourself.
+See everyone who's contributed in **[CONTRIBUTORS.md](./Contributors.md)** — once your PR is merged, the maintainer will add your name there. No need to edit that file yourself.
 
 ---
 
