@@ -18,8 +18,7 @@ Each person has completed a real <b>Fork → Branch → Commit → Pull Request<
 | :---: | :--- | :--- | :--- | :--- |
 | 1 | **Muhammad Mustafa** (Syntrojex) 👑 | [@Syntrojex](https://github.com/Syntrojex) | Founder & Maintainer | `0-About The Author.md`, `0-Syntrojex.cs`, `0-Syntrojex.dart` |
 | 2 | Abdullah Arif | [@abdullaharifx](https://github.com/abdullaharifx) | Senior Contributor | `3-Abdullah-Arif.md`, `3-Abdullah-Arif.py` |
-| 6 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `5-Ubaid.md`, `5-Ubaid.cpp` |
-| 7 | *Your name here* | [@your-username](https://github.com/your-username) | Contributor | |
+| 3 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `5-Ubaid.md`, `5-Ubaid.cpp` |
 
 ---
 
