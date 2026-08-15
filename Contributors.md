@@ -21,6 +21,7 @@ Each person has completed a real <b>Fork → Branch → Commit → Pull Request<
 | 3 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `5-Ubaid.md`, `5-Ubaid.cpp` |
 | 4 | Saba | [@saba-dev-gif](https://github.com/saba-dev-gif) | Contributor | `2-Saba-dev.md`, `2-Saa-dev.py` |
 | 5 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `1-Mustafa.cpp` |
+| 6 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `6-Hassan.md`, `6-Hassan.cpp` |
 
 ---
 
