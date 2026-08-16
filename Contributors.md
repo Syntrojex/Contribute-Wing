@@ -16,12 +16,12 @@ Each person has completed a real <b>Fork → Branch → Commit → Pull Request<
 
 | # | Name | GitHub | Role | Files Contributed |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | **Muhammad Mustafa** (Syntrojex) 👑 | [@Syntrojex](https://github.com/Syntrojex) | Founder & Maintainer | `0-About The Author.md`, `0-Syntrojex.cs`, `0-Syntrojex.dart` |
-| 2 | Abdullah Arif | [@abdullaharifx](https://github.com/abdullaharifx) | Senior Contributor | `3-Abdullah-Arif.md`, `3-Abdullah-Arif.py` |
-| 3 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `5-Ubaid.md`, `5-Ubaid.cpp` |
-| 4 | Saba | [@saba-dev-gif](https://github.com/saba-dev-gif) | Contributor | `2-Saba-dev.md`, `2-Saa-dev.py` |
-| 5 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `1-Mustafa.cpp` |
-| 6 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `6-Hassan.md`, `6-Hassan.cpp` |
+| 1 | **Muhammad Mustafa** (Syntrojex) 👑 | [@Syntrojex](https://github.com/Syntrojex) | Founder & Maintainer | `About The Author.md`, `Syntrojex.cs`, `Syntrojex.dart` |
+| 2 | Abdullah Arif | [@abdullaharifx](https://github.com/abdullaharifx) | Senior Contributor | `Abdullah-Arif.md`, `Abdullah-Arif.py` |
+| 3 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `Ubaid.md`, `Ubaid.cpp` |
+| 4 | Saba | [@saba-dev-gif](https://github.com/saba-dev-gif) | Contributor | `Saba-dev.md`, `Saba-dev.py` |
+| 5 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `Mustafa.cpp` |
+| 6 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `Hassan.md`, `Hassan.cpp` |
 
 ---
 
