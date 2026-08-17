@@ -314,6 +314,16 @@ See everyone who's contributed in **[Contributors.md](./Contributors.md)** — o
 
 ---
 
+## 🙏 Special Thanks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPECIAL%20THANKS-❤️-red?style=for-the-badge" alt="special thanks" />
+</p>
+
+A big thanks to **Ali Khalid** ([@Alikhalid107](https://github.com/Alikhalid107)) for their valuable guidance and support in helping this repository grow. 🙌
+
+---
+
 ## 📜 License
 
 Licensed under the [MIT License](./LICENSE) — free to fork, star, and use as a template.
