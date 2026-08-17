@@ -317,10 +317,18 @@ See everyone who's contributed in **[Contributors.md](./Contributors.md)** — o
 ## 🙏 Special Thanks
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPECIAL%20THANKS-❤️-red?style=for-the-badge" alt="special thanks" />
+  <img src="https://img.shields.io/badge/Gratitude-💛-yellow?style=for-the-badge" alt="gratitude" />
 </p>
 
-A big thanks to **Ali Khalid** ([@Alikhalid107](https://github.com/Alikhalid107)) for their valuable guidance and support in helping this repository grow. 🙌
+<p align="center">
+Thanks to <b>Ali Khalid</b> for the guidance and support that helped shape this repository. 🙌
+</p>
+
+<p align="center">
+<a href="https://github.com/Alikhalid107">
+<img src="https://img.shields.io/badge/-Ali_Khalid-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ali Khalid GitHub" />
+</a>
+</p>
 
 ---
 
