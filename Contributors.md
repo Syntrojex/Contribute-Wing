@@ -18,11 +18,12 @@ Each person has completed a real <b>Fork → Branch → Commit → Pull Request<
 | :---: | :--- | :--- | :--- | :--- |
 | 1 | **Muhammad Mustafa** (Syntrojex) 👑 | [@Syntrojex](https://github.com/Syntrojex) | Founder & Maintainer | `About The Author.md`, `Syntrojex.cs`, `Syntrojex.dart` |
 | 2 | Abdullah Arif | [@abdullaharifx](https://github.com/abdullaharifx) | Senior Contributor | `Abdullah-Arif.md`, `Abdullah-Arif.py` |
-| 3 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `Ubaid.md`, `Ubaid.cpp` |
-| 4 | Saba | [@saba-dev-gif](https://github.com/saba-dev-gif) | Contributor | `Saba-dev.md`, `Saba-dev.py` |
-| 5 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `Mustafa.cpp` |
-| 6 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `Hassan.md`, `Hassan.cpp` |
-| 7 | Ahmad Ali | [@ahmadAliJS](https://github.com/ahmadAliJS) | Contributor | `Ahmad.js` |
+| 3 | Ali Khalid | [@Alikhalid107](https://github.com/Alikhalid107) | Contributor | `Ali_Khalid.md`, `Ali-Todo` |
+| 4 | Ubaid Ullah | [@ubaidullahzafar789-cyber](https://github.com/ubaidullahzafar789-cyber) | Contributor | `Ubaid.md`, `Ubaid.cpp` |
+| 5 | Saba | [@saba-dev-gif](https://github.com/saba-dev-gif) | Contributor | `Saba-dev.md`, `Saba-dev.py` |
+| 6 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `Mustafa.cpp` |
+| 7 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `Hassan.md`, `Hassan.cpp` |
+| 8 | Ahmad Ali | [@ahmadAliJS](https://github.com/ahmadAliJS) | Contributor | `Ahmad.js` |
 
 ---
 
