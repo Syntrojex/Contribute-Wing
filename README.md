@@ -18,9 +18,10 @@ Hey, I'm **Muhammad Mustafa** — I go by **Syntrojex** online. I'm a Software E
 
 ---
 
+
 ## 📌 What Is This Repository?
 
-**Contribute Wing** isn't a "real" software project with a codebase to maintain — it's a **training ground**. A safe, structured space where developers add two small files to the `contributions/` folder:
+**Contribute Wing** isn't a "real" software project with a codebase to maintain — it's a **training ground**. A safe, structured space where developers add two small files: a profile `.md` inside `Contributions/_Contributors Profiles/`, and a code snippet inside the matching language subfolder (e.g. `Contributions/Python/`):
 
 - 📝 A short **profile** introducing themselves
 - 💻 A **code snippet** in any programming language they like — C++, Python, Dart, JavaScript, Java, whatever they know
