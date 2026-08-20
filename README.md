@@ -14,6 +14,7 @@ Created by **Muhammad Mustafa** ([@Syntrojex](https://github.com/Syntrojex))
 Hey, I'm **Muhammad Mustafa** — I go by **Syntrojex** online. I'm a Software Engineering student who built this repository so other developers could get comfortable with Git & GitHub before jumping into real open-source projects.
 
 **GitHub:** [@Syntrojex](https://github.com/Syntrojex)
+**LinkedIn:** [Muhammad Mustafa](https://linkedin.com/in/mustafa-amir-syntrojex)
 
 ---
 
