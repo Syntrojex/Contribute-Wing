@@ -316,7 +316,7 @@ int main() {
 ### 5. Commit & Push
 
 ```bash
-git add "Contributions/_Contributors Profiles/your-name.md" "Contributions/[Language]/your-name.ext"
+git add "Contributions/_Contributors Profiles/your-name.md" Contributions/[Language]/your-name.ext
 git commit -m "Add [Your Name] as a contributor"
 git push origin YOUR-NAME
 ```
