@@ -59,15 +59,25 @@ Contribute-Wing/
 ├── Contributors.md
 ├── LICENSE
 ├── .gitignore
-└── contributions/
-    ├── 0-About the Author.md
-    ├── 0-Syntrojex.cs
-    ├── 1-contributor-name.md
-    ├── 1-contributor-name.py
-    └── ...
+└── Contributions/
+    ├── C#/
+    │   └── your-name.cs
+    ├── C++/
+    │   └── your-name.cpp
+    ├── Dart/
+    │   └── your-name.dart
+    ├── JavaScript/
+    │   └── your-name.js
+    ├── Python/
+    │   └── your-name.py
+    ├── _Contributors Profiles/
+    │   ├── your-name.md
+    │   └── ...
+    └── About The Author.md
 ```
 
 ---
+
 
 ## 🤝 How to Contribute
 
