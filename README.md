@@ -90,10 +90,10 @@ git checkout -b YOUR-NAME
 
 ### 4. Add Your Two Files
 
-Inside `contributions/`, create:
+Inside `Contributions/`, create:
 
-1. **Profile file:** `contributions/your-name.md`
-2. **Code file:** `contributions/your-name.ext` — use your language's real extension (not `.md`)
+1. **Profile file:** `Contributions/_Contributors Profiles/your-name.md`
+2. **Code file:** inside the matching language folder — `Contributions/[Language]/your-name.ext` (create the language folder if it doesn't exist yet)
 
 ```
 .cpp → C++      .py → Python     .js → JavaScript   .ts → TypeScript
