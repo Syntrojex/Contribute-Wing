@@ -60,21 +60,25 @@ Contribute-Wing/
 ├── LICENSE
 ├── .gitignore
 └── Contributions/
-    ├── C#/
-    │   └── your-name.cs
-    ├── C++/
-    │   └── your-name.cpp
-    ├── Dart/
-    │   └── your-name.dart
-    ├── JavaScript/
-    │   └── your-name.js
-    ├── Python/
-    │   └── your-name.py
-    ├── _Contributors Profiles/
-    │   ├── your-name.md
-    │   └── ...
+    ├── C/                     → sample.c
+    ├── C#/                    → sample.cs
+    ├── C++/                   → sample.cpp
+    ├── Dart/                  → sample.dart
+    ├── Go/                    → sample.go
+    ├── Java/                  → sample.java
+    ├── JavaScript/            → sample.js
+    ├── Kotlin/                → sample.kt
+    ├── PHP/                   → sample.php
+    ├── Python/                → sample.py
+    ├── Ruby/                  → sample.rb
+    ├── Rust/                  → sample.rs
+    ├── Swift/                 → sample.swift
+    ├── TypeScript/            → sample.ts
+    ├── _Contributors Profiles/  → your-name.md
     └── About The Author.md
 ```
+
+> Each language folder holds a `sample.ext` file for reference. To contribute, either copy `sample.ext` and rename it to `your-name.ext`, or create a fresh file — just make sure it lands inside the matching language folder (e.g. `your-name.py` inside `Python/`).
 
 ---
 
