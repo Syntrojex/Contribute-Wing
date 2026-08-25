@@ -9,8 +9,8 @@
 
 | Attribute | Details |
 | :--- | :--- |
-| **Full Name** | [Aap Ka Naam] |
-| **University** | [Aap Ki University Ka Naam] |
+| **Full Name** | [Saba] |
+| **University** | [Air Univeristy] |
 | **Current Semester** | [e.g. 3rd Semester / 5th Semester] |
 | **Degree / Major** | [e.g. BS Computer Science / Software Engineering] |
 
