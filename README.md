@@ -8,7 +8,6 @@ Created by **Muhammad Mustafa** ([@Syntrojex](https://github.com/Syntrojex))
  
 ---
 
-
 ## 👤 About the Author
 
 Hey, I'm **Muhammad Mustafa** — I go by **Syntrojex** online. I'm a Software Engineering student who built this repository so other developers could get comfortable with Git & GitHub before jumping into real open-source projects.
