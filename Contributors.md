@@ -23,7 +23,7 @@ Each person has completed a real <b>Fork → Branch → Commit → Pull Request<
 | 5 | Saba | [@saba-dev-gif](https://github.com/) | Contributor | `Saba-dev.md`, `Saba-dev.py` |
 | 6 | Mustafa | [@mustafa-cpp](https://github.com/mustafa-cpp) | Contributor | `Mustafa.cpp` |
 | 7 | Hassan Khalid | [@HassanKhalidKM](https://github.com/HassanKhalidKM) | Contributor | `Hassan.md`, `Hassan.cpp` |
-| 8 | Ahmad Ali | [@ahmadAliJS](https://github.com/) | Contributor | `Ahmad.js` |
+| 8 | Ahmad Ali | [@ahmadAliJS](https://github.com/) | Contributor | `Ahmad.js`, `Ahmad.md` |
 | 9 | Momina Usman | [@momina-usman-tech](https://github.com/) | Contributor | `Momina.c`, `Momina.md` |
 
 ---
