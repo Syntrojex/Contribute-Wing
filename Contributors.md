@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Contributors</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTORS-9-brightgreen?style=for-the-badge" alt="total contributors" />
+  <img src="https://img.shields.io/badge/TOTAL%20CONTRIBUTORS-10-brightgreen?style=for-the-badge" alt="total contributors" />
   <img src="https://img.shields.io/badge/HALL%20OF-FAME-gold?style=for-the-badge" alt="hall of fame" />
 </p>
 
