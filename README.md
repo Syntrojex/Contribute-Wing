@@ -337,6 +337,12 @@ See everyone who's contributed in **[Contributors.md](./Contributors.md)** — o
 
 ---
 
+## 🔒 Security
+ 
+Found something concerning? See our **[Security Policy](./SECURITY.md)** for how to report it.
+ 
+---
+
 ## 📜 License
 
 Licensed under the [MIT License](./LICENSE) — free to fork, star, and use as a template.
