@@ -1,12 +1,12 @@
 # 🚀 Contribute Wing
- 
+
 > A beginner-friendly open-source repository designed to master Git & GitHub workflows through hands-on practice (Fork, Clone, Branch, Commit, Push, and PRs).
- 
+
 A beginner-friendly sandbox where developers take their **first real steps into open source** — no complex codebase, no pressure, just the actual Git & GitHub workflow used everywhere in the real world.
- 
+
 Created by **Muhammad Mustafa** ([@Syntrojex](https://github.com/Syntrojex))
- 
---- 
+
+---
 
 ## 👤 About the Author
 
@@ -54,10 +54,14 @@ Fork  →  Clone  →  Branch  →  Add Your Files  →  Commit  →  Push  → 
 ```text
 Contribute-Wing/
 ├── README.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
 ├── Contributors.md
 ├── LICENSE
 ├── .gitignore
 └── Contributions/
+    ├── Assembly/              → sample.asm
     ├── C/                     → sample.c
     ├── C#/                    → sample.cs
     ├── C++/                   → sample.cpp
@@ -86,6 +90,8 @@ Adding your own profile and code sample takes just a few minutes — fork, add t
 
 👉 **Full step-by-step guide (with templates and language examples): [CONTRIBUTING.md](./CONTRIBUTING.md)**
 
+Please also read our **[Code of Conduct](./CODE_OF_CONDUCT.md)** before contributing.
+
 ---
 
 ## 🌟 Contributors
@@ -95,9 +101,9 @@ See everyone who's contributed in **[Contributors.md](./Contributors.md)** — o
 ---
 
 ## 🔒 Security
- 
+
 Found something concerning? See our **[Security Policy](./SECURITY.md)** for how to report it.
- 
+
 ---
 
 ## 📜 License
