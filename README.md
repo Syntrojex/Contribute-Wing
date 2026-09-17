@@ -88,7 +88,7 @@ Contribute-Wing/
 
 Adding your own profile and code sample takes just a few minutes — fork, add two files, and open a Pull Request.
 
-👉 **Full step-by-step guide (with templates and language examples): [CONTRIBUTING.md](./CONTRIBUTING.md)**
+👉 **Full step-by-step guide (with templates and language examples): [CONTRIBUTING.md](./Contributing.md)**
 
 Please also read our **[Code of Conduct](./CODE_OF_CONDUCT.md)** before contributing.
 
@@ -102,7 +102,7 @@ See everyone who's contributed in **[Contributors.md](./Contributors.md)** — o
 
 ## 🔒 Security
 
-Found something concerning? See our **[Security Policy](./SECURITY.md)** for how to report it.
+Found something concerning? See our **[Security Policy](./Security.md)** for how to report it.
 
 ---
 
