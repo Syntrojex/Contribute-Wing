@@ -5,7 +5,7 @@
 A beginner-friendly sandbox where developers take their **first real steps into open source** — no complex codebase, no pressure, just the actual Git & GitHub workflow used everywhere in the real world.
  
 Created by **Muhammad Mustafa** ([@Syntrojex](https://github.com/Syntrojex))
- 
+
 ---
 
 ## 👤 About the Author
