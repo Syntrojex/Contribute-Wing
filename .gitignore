@@ -41,7 +41,7 @@ obj/
 *.class
 *.jar
 
-# === Dart / Flutter ===
+# === Dart / Flutter === 
 .dart_tool/
 .packages
 pubspec.lock
