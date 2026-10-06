@@ -2,7 +2,6 @@
 #include<iomanip>
 using namespace std;
 
-// i have done it global so that we have to only change the values of the given 4 variables and automatically all values will be changed
 const int rowA = 3;
 const int columnA = 3;
 const int rowB = 3;
