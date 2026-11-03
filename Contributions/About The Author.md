@@ -1,6 +1,6 @@
 # 👑 Muhammad Mustafa Amir (Syntrojex)
 
-### Repository Author & Lead Maintainer
+### Repository Author & Lead Maintainer 
 
 ![GitHub](https://img.shields.io/badge/GitHub-Syntrojex-181717?style=for-the-badge&logo=github)
 ![Lead Maintainer](https://img.shields.io/badge/Lead-Maintainer-0A66C2?style=for-the-badge&logo=github)
