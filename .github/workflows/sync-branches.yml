@@ -1,0 +1,94 @@
+
+name: Sync All Branches
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-all-branches
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Sync Branches with Default Branch
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Detect and Sync Branches
+        shell: bash
+        run: |
+          set -u
+
+          git fetch origin --prune
+
+          DEFAULT_BRANCH="${{ github.event.repository.default_branch }}"
+
+          echo "Default branch: $DEFAULT_BRANCH"
+
+          branches=()
+          failed=()
+
+          while IFS= read -r branch; do
+            [[ -z "$branch" ]] && continue
+            [[ "$branch" == "$DEFAULT_BRANCH" ]] && continue
+            [[ "$branch" == "gh-pages" ]] && continue
+
+            branches+=("$branch")
+          done < <(git for-each-ref \
+            --format='%(refname:strip=3)' \
+            refs/remotes/origin)
+
+          if (( ${#branches[@]} == 0 )); then
+            echo "No branches found to synchronize."
+            exit 0
+          fi
+
+          for branch in "${branches[@]}"; do
+            echo "::group::Syncing $branch"
+
+            if ! git checkout -B "$branch" "origin/$branch"; then
+              failed+=("$branch (checkout failed)")
+              echo "::endgroup::"
+              continue
+            fi
+
+            if git merge --no-edit "origin/$DEFAULT_BRANCH"; then
+              if git push origin "HEAD:$branch"; then
+                echo "Successfully synced $branch."
+              else
+                echo "::warning::Push failed for $branch."
+                failed+=("$branch (push failed)")
+              fi
+            else
+              echo "::warning::Conflict detected in $branch."
+              git merge --abort || true
+              failed+=("$branch (merge conflict)")
+            fi
+
+            echo "::endgroup::"
+          done
+
+          if (( ${#failed[@]} > 0 )); then
+            echo "::error::Some branches could not be synchronized:"
+            printf ' - %s\n' "${failed[@]}"
+            exit 1
+          fi
+
+          echo "All branches successfully synchronized."
