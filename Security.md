@@ -1,5 +1,5 @@
 # Security Policy
-
+                 
 ## Reporting a Vulnerability
 
 **Contribute Wing** is a practice/learning repository — it does not run any live application, server, or service, so the risk surface here is minimal. Still, if you spot something concerning (e.g. malicious code submitted in a contributor's file, a broken link that leads somewhere unsafe, or any other security-related issue), please report it responsibly.
